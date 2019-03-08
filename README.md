@@ -33,25 +33,20 @@ _Agrega notas adicionales sobre como hacer deploy_
  
 ## License 📄
 
-<p align="center">
-  <a href="https://github.com/kamranahmedse/driver.js/blob/master/license">
+<p align="left">
+  <a href="https://github.com/edulorenzodev/AndroidApp_HipotenochaMarvel/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-  <a href="https://npmjs.org/package/driver.js">
-    <img src="https://badge.fury.io/js/driver.js.svg" alt="version" />
   </a>
 </p>
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-## Expresiones de Gratitud 🎁
+## Acknowledgements 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 a alguien del equipo. 
-* Da las gracias públicamente 🤓.
+* Tell others about this project. 📢
+* Invite a beer 🍺.
+* Thanks publicly 🤓.
 * etc.
 
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
