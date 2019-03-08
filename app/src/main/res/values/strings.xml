@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hipotenocha_Marvel</string>
+    <string name="action_settings">Configura el juego</string>
+    <string name="cuidado">Ten cuidado!</string>
+    <string name="derrota">Lo siento. Ahí no había ninguna hipotenocha. Has perdido!!!</string>
+    <string name="elegir_personaje">Elige el personaje</string>
+    <string name="empieza">Comenzar juego!</string>
+    <string name="instrucciones">Instrucciones</string>
+    <string name="instrucciones_descripcion">El juego es tipo buscaminas: Cuando pulsas en una casilla, sale un número que identifica cuántas hipotenochas hay alrededor: Ten cuidado porque si pulsas en una casilla que tenga una hipotenocha escondida, perderás. Si crees o tienes la certeza de que hay una hipotenocha, haz un click largo sobre la casilla para señalarla. No hagas un click largo en una casilla donde no hay una hipotenocha porque perderás. Ganas una vez hayas encontrado todas las hipotenochas.</string>
+    <string name="muybien">Muy bien!! Has encontrado una hipotenocha</string>
+    <string name="nivel_amateur">Nivel Amateur</string>
+    <string name="nivel_experto">Nivel Experto</string>
+    <string name="nivel_personalizado">Nivel Personalizado</string>
+    <string name="nivel_principiante">Nivel Principiante</string>
+    <string name="num_cols">Número de Columnas:</string>
+    <string name="num_filas">Número de Filas:</string>
+    <string name="num_minas">Número de Minas:</string>
+    <string name="ok">OK</string>
+    <string name="perdido">Has perdido!!</string>
+    <string name="records">Records</string>
+    <string name="tus_datos">Tus Datos</string>
+    <string name="victoria">Enhorabuena!!. Has ganado!!!</string>
+    <string name="volver">Volver</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="nombresheroes">
+        <item>Batman</item>
+        <item>Flash</item>
+        <item>Ironman</item>
+        <item>Lobezno</item>
+        <item>Spiderman</item>
+        <item>MsMarvel</item>
+
+    </array>
+    <array name="niveles">
+        <item>Nivel Principiante</item>
+        <item>Nivel Amateur</item>
+        <item>Nivel Avanzado</item>
+    </array>
+    <integer-array name="imagenes">
+        <item>@drawable/batman</item>
+        <item>@drawable/flash</item>
+        <item>@drawable/ironman</item>
+        <item>@drawable/lobezno</item>
+        <item>@drawable/spiderman</item>
+        <item>@drawable/msmarvel</item>
+    </integer-array>
+</resources>
