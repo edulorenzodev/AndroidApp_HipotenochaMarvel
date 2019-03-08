@@ -1,11 +1,11 @@
-# Hipotenocha Marv3l
+# Hipotenocha Marv3l :pick: :fire:
 
 _Game Android style minesweeper but with characters from the popular comic saga._
 _Developed during my training stage._
 
-## Comenzando 🚀
+## Starting 🚀
 
-* _Clona el repositorio en tu equipo_
+* _Clone the repository in your local machine_
 
 ```bash
 $ git clone https://github.com/edulorenzodev/AndroidApp_HipotenochaMarvel.git
@@ -13,17 +13,15 @@ $ git clone https://github.com/edulorenzodev/AndroidApp_HipotenochaMarvel.git
 
 * _Use Android Studio to deploy the app_
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+Look **Deployment** to know how to deploy the project.
 
 
-### Pre-requisitos 📋
+### Pre-requirements 📋
 
 * [Android Studio](https://developer.android.com/studio/install)
 
 
 ## Deployment 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
 
 
 ## Autores ✒️
