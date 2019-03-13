@@ -24,7 +24,7 @@ Look **Deployment** to know how to deploy the project.
 ## Deployment 📦
 
 
-## Autores ✒️
+## Authors of ✒️
 
 * **Edu Lorenzo** - *Initial Work and docs* - [edulorenzodev](https://github.com/edulorenzodev)
 * **other colleagues in the training** 
